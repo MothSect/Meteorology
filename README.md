@@ -7,3 +7,5 @@
 
 ## Exemplo Completo
     - https://meteo.brunodeilhot.dev
+
+    https://vitejs.dev/guide/
